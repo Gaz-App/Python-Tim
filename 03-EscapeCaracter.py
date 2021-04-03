@@ -16,3 +16,11 @@ several \
 lines"""
 
 print(anotherString)
+
+print("----------------")
+anotherString2 = """This string has been 
+split over 
+several 
+lines"""
+
+print(anotherString2)
