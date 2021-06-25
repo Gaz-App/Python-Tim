@@ -17,4 +17,15 @@ print(a % b)  # 0 modulo: the remainder after integer divison
 TODO EL CODIGO ANTERIOR SON EXPRESIONES, POR SE PUEDEN CLACULAR Y EN 
 EL CASO DE LA LINEA 6 Y 7, TIENEN EL SIGNO DE IGUAL YA ESTA ESPERANDO 
 O SE LE STA ASIGNADO UN VALOR, ES POR ESTO QUE TAMBIEN ES UNA EXPRESSION.
+
+---> las expresiones son combinaciones de valores y operadores y siempre
+ se evalúan hasta un solo valor
+"""
+
+"""
+Las expresiones representan algo, como un número, una cadena o una instancia de una clase. 
+¡Cualquier valor es una expresión!
+Todo lo que hace algo es una declaración. Cualquier asignación a una llamada de 
+variable o función es una instrucción. Cualquier valor contenido en esa instrucción en 
+una expresión.
 """
