@@ -10,3 +10,11 @@ print(backwards)
 backwards2 = letters[23::-1]
 #va hacia al final, NO PARA, y recorre en -1
 print (backwards2)
+
+print (letters[:-9:-1])
+print (letters[23:-9:-1])
+print (letters[-4::])
+print (letters[-4:])
+print (letters[1:])
+print (letters[:1])
+print (letters[0])
